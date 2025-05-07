@@ -1,0 +1,37 @@
+Biologia Molecular da Célula
+
+DNA: material genético
+- longo polímero composto por quatro subunidades
+- estrutura tridimensional
+- duas fitas de um polímero enroladas por uma hélice
+- potencial de replicação e armazenamento de informações
+- nos eucariotos, está localizado no núcleo celular
+
+Ácido desoxirribonucleico - duas longas cadeias polipeptídicas compostas por quatro tipos de subunidades nucleotídicas
+
+Ligações de hidrogênio unem as cadeias
+
+Nucleotídeos compostos de açúcares com cinco carbonos - grupo fosfato
+ATCG
+
+Polaridade química: protuberância (fosfato 5') e cavidade (hidroxila 3') nas extremidades
+
+* leitura da cadeia direcional e linear
+* bases voltadas para o interior da dupla-hélice
+
+Pareamento de bases estratégico p/ favorecer arranjo energético
+
+Duas perguntas;
+- como a informação genética para especificar um organismo poderia ser armazenada em uma forma química? polímero linear, quatro tipos de monômeros - ordenadas em sequência definida
+- como essa info pode ser duplicada e copiada de geração a geração? natureza helicoidal, complementar e servindo como molde para a síntese de uma nova fita
+
+fita de DNA como molde - célula pode replicar ou copiar seu genes antes de passá-los aos descendentes
+
+conversão da sequência nucleotídica de um gene em uma sequência de nucleotídeos na molécula de RNA; depois, na sequência de aminoácidos de uma proteína
+
+total de informação = genoma
+|_ genes que codificam proteínas, por meio de splicing alternativo, originam um número muito maior de proteínas diferentes
+
+envelope nuclear está ligado ao sistema de membranas intracelulares, chamado retículo endoplasmático - do núcleo ao citoplasma
+
+
